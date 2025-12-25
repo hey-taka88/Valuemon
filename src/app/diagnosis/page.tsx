@@ -16,10 +16,10 @@ const DIAGNOSIS_MODES = [
     {
         id: 'lantern',
         title: 'バリューランタン',
-        description: '今の価値観を整理したい',
+        description: '88枚のカードから価値観を特定',
         icon: '🏮',
-        duration: '約5分',
-        available: false,
+        duration: '約10分',
+        available: true,
     },
     {
         id: 'sentence',
